@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Levi! 👋 🎨🎬
+# Olá, eu sou o Matheus Levi! 
 
 Editor de Vídeo, Designer UI/UX e Aprendiz de Desenvolvimento.
 
