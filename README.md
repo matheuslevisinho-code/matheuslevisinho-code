@@ -1,13 +1,14 @@
 # Olá, eu sou o Matheus Levi! 👋 🎨🎬
 
-Editor de Vídeo, Designer UI/UX e Aprendiz de Desenvolvimento.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, Editor de Vídeo e Designer UI/UX.
 
 ---
 
 ### 🚀 Sobre mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 🎬 Trabalho com **Edição de Vídeo** e motion design.
 - 🎨 Crio interfaces e experiências visuais com **UI/UX Design**.
-- 🐍 Aprendendo **Python, HTML, JavaScript e Java** para unir design e código.
+- 🐍 Aprendendo **Python, HTML, JavaScript e Java** para unir design e tecnologia.
 
 ---
 
@@ -25,5 +26,5 @@ Editor de Vídeo, Designer UI/UX e Aprendiz de Desenvolvimento.
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuslevisinho-code&show_icons=true&theme=dark)
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuslevisinho-code&show_icons=true&theme=tokyonight)
