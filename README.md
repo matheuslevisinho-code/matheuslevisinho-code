@@ -8,7 +8,7 @@
 
 * 💻 Working with **Video Editing** and Motion Design.
 * 🎨 Creating interfaces and visual experiences through **UI/UX Design**.
-* ⚡ Currently studying **Software Engineering**, bridging the gap between design and code using **HTML, CSS, JavaScript, Node.js, Python, and Java**[cite: 1].
+* ⚡ Currently studying **Software Engineering**, bridging the gap between design and code using **HTML, CSS, JavaScript, Node.js, Python, and Java**.
 
 ---
 
