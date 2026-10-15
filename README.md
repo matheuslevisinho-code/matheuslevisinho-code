@@ -1,29 +1,43 @@
-# Olá, eu sou o Matheus Levi! 
+### Hi there, I'm Matheus Levi! 👋
 
-Editor de Vídeo, Designer UI/UX e Aprendiz de Desenvolvimento.
-
----
-
-### 🚀 Sobre mim
-- 🎬 Trabalho com **Edição de Vídeo** e motion design.
-- 🎨 Crio interfaces e experiências visuais com **UI/UX Design**.
-- 🐍 Aprendendo **Python, HTML, JavaScript e Java** para unir design e código.
+**Software Engineering Student | UI/UX Designer | Video Editor**
 
 ---
 
-### 🎨 Design & Edição de Vídeo
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=00005B)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### 🚀 About Me
 
-### 💻 Estudando Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+* 💻 Working with **Video Editing** and Motion Design.
+* 🎨 Creating interfaces and visual experiences through **UI/UX Design**.
+* ⚡ Currently studying **Software Engineering**, bridging the gap between design and code using **HTML, CSS, JavaScript, Node.js, Python, and Java**[cite: 1].
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuslevisinho-code&show_icons=true&theme=dark)
+### 🎨 Design & Video Editing
+
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+### 💻 Technologies & Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuslevisinho-code&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
